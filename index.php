@@ -1,11 +1,14 @@
 <!DOCTYPE html>
 <html>
-<body>
+   <head>
+      <title>My Cloud PHP page</title>
+   </head>
 
-<h1>My Cloud PHP page</h1>
-
-  
- <img src="20190329_184711.jpg"
+   <body>
+      <img src="20190329_184711.jpg" width="200"
+         height="80">
+   </body>
+</html>
 <?php
 echo "Hello World!";
 
