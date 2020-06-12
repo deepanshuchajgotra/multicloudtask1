@@ -4,6 +4,8 @@
 
 <h1>My Cloud PHP page</h1>
 
+  
+ <img src=""
 <?php
 echo "Hello World!";
 
