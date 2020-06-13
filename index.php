@@ -14,14 +14,13 @@
 
 <?php
 
-<br>
    
 echo "Hello World!";
 
 
 echo "Welcome to My Country India Jai Hind";
 
-</br>
+
 ?> 
 
 </body>
