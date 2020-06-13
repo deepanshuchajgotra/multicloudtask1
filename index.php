@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
    <head>
-      <title>Deepanshu terraform Cloud page</title>
+      <title>Deepanshu terraform Cloud</title>
    </head>
 
    <body>
-      <img src="download.png" width="200"
+      <img src="download.png" width="500"
          height="400">
    </body>
       
@@ -14,13 +14,14 @@
 
 <?php
 
-
+<br>
+   
 echo "Hello World!";
 
 
-echo "Welcome to Red Zone";
+echo "Welcome to My Country India Jai Hind";
 
-
+</br>
 ?> 
 
 </body>
