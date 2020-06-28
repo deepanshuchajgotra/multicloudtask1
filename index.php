@@ -5,7 +5,7 @@
    </head>
 
    <body>
-      <img src="download.png" width="500"
+      <img src="" width="500"
          height="400">
    </body>
       
